@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/3f/c3/92/3fc3926540d8359216aeb69ae0b829ac.jpg" width="100"/>
+  <img src="http://4.bp.blogspot.com/-022Y-qc_BdA/UXQMeVtctUI/AAAAAAAAB_c/SECkdneSHeo/s400/StatsFunny.jpg" width="100"/>
 </div>
 <p align="center">
   <a href="http://www.linkedin.com/in/evanc001">
