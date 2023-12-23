@@ -23,7 +23,7 @@
 ---
 :man_technologist: Обо мне :
 
-📊 Я - дата аналитик из Узбекистана, в поиске 🔍 удаленной работы или в Ташкенте 🌇 [CV](https://drive.google.com/file/d/17x90xMUpElfIhf8QzrYDDFtMSrbTU_de/view?usp=sharing)
+📊 Я - дата аналитик из Узбекистана, в поиске 🔍 удаленной работы или в Ташкенте 🌇 [CV](https://drive.google.com/file/d/15_aG61h8HfB5PoiAUbNiGP5BcfoEbC15/view?usp=sharing)
 
 📝 Интересуюсь созданием информативных дашбордов 📈 и разработкой аналитических отчетов.
 
